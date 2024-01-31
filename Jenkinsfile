@@ -27,7 +27,7 @@ pipeline {
 
     stage('Deploy Container To Openshift') {
       steps {
-        sh "echo am done"
+        sh "echo am done testing"
         
       }
     }
